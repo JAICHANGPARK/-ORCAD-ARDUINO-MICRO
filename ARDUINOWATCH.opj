@@ -1,0 +1,41 @@
+(ExpressProject "ARDUINOWATCH"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (NoModify)
+    (File ".\arduinowatch.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (Board_sim_option "VHDL_flow"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    ("HEADER 17"
+      (FullPartName "HEADER 17.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.5\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\arduinowatch.dsn")
+      (Path "Design Resources" ".\arduinowatch.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\arduinowatch.dsn" "SCHEMATIC1"
+         "ARDUINO WATCH"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 179"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 243 1130 57 275")
+        (Scroll "0 0")
+        (Zoom "84")
+        (Occurrence "/"))
+      (Path "C:\USERS\2E313JCP\DESKTOP\REV1\ARDUINOWATCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "ARDUINO WATCH"))))
